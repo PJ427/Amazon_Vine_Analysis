@@ -32,5 +32,5 @@
     
 ## Summary: 
 
-    The dataset I selected had absolutely zero Vine reviews. Due to this I do not see a bias in the number of Vine reviews.  Non-vine 5 star
-    reviews had a positive 60% which demonstrates an unbias.
+    The dataset I selected had absolutely zero Vine reviews. Due to this I do not see a bias in the number of Vine reviews. 
+    Non-vine 5 star reviews had a positive 60% which demonstrates an unbias.
