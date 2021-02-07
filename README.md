@@ -7,6 +7,8 @@
     perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed
     data into pgAdmin. Next, you’ll use PySpark, to determine if there is any bias toward favorable reviews from Vine members in
     your dataset.
+    
+    The dataset I chose: amazon_reviews_us_Books_v1_02.tsv.gz
 
 ## Results:
 
@@ -28,4 +30,7 @@
 
 ![](https://github.com/PJ427/Amazon_Vine_Analysis/blob/main/Resources/step_5.PNG)
     
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
+
+    The dataset I selected had absolutely zero Vine reviews. Due to this I do not see a bias in the number of Vine reviews.  Non-vine 5 star
+    reviews had a positive 60% which demonstrates an unbias.
