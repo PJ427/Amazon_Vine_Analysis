@@ -28,7 +28,7 @@
     
         - 60% of the non-Vine reviews were 5 stars
 
-![](https://github.com/PJ427/Amazon_Vine_Analysis/blob/main/Resources/step_5.PNG)
+<p align="center"><img src="https://github.com/PJ427/Amazon_Vine_Analysis/blob/main/Resources/step_5.PNG"></p>
     
 ## Summary: 
 
